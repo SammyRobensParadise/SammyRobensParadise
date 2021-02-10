@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm Sammy 👋
+Pronouns: He/Him
+![SammyRP](https://i.ibb.co/WkN8RtC/sammy-illustraions-logo.png)
 
-<!--
-**SammyRobensParadise/SammyRobensParadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/)!
 
-Here are some ideas to get you started:
+I study `Systems Design Engineering` at the University of Waterloo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Side Project?
+> Currently building an application to help inform users of content and images that contain mis-information, check out [verify](https://github.com/SammyRobensParadise/verify)!
+
+### 🌎 Website: [sammy.world](https://sammy.world)
+
+### 🏀 Dribbble: [sammyrp](https://dribbble.com/sammyrp)
+
+### 🔗 Linkedin [Sammy Robens-Paradise](https://www.linkedin.com/in/sammy-robens-paradise/)
+
+
+
+### 🏔 From Vancouver, BC
+![vancouver](https://i.ibb.co/Wz6nB05/about-background-7efcfe8e.png)
