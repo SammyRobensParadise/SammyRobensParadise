@@ -1,6 +1,5 @@
 ### Hi there I'm Sammy 👋
 Pronouns: He/Him
-![SammyRP](https://i.ibb.co/WkN8RtC/sammy-illustraions-logo.png)
 
 I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/)!
 
