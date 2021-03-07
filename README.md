@@ -5,8 +5,12 @@ I am a developer and designer currently working at [Beacon Biosignals 🧠](http
 
 I study `Systems Design Engineering` at the University of Waterloo!
 
-Side Project?
+<b>I am looking  for internship and co-op opportunities in product design, UX/UI and development beginning Fall 2021 🍁 ✨</b>
+
+### Side Projects?
 > Currently building an application to help inform users of content and images that contain mis-information, check out [verify](https://github.com/SammyRobensParadise/verify)!
+
+> `npm install github-contributions-counter` for a small tool to display your Github contributions history from anywhere! Check it out [here](https://github.com/SammyRobensParadise/github-contributions-counter)
 
 ### 🌎 Website: [sammy.world](https://sammy.world)
 
