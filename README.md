@@ -1,11 +1,9 @@
 ### Hi there I'm Sammy 👋
 Pronouns: He/Him
 
-I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/)!
+I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/), and [Journal 💳](https://www.tryjournal.com/) !
 
 I study `Systems Design Engineering` at the University of Waterloo!
-
-<b>I am looking  for internship and co-op opportunities in product design, UX/UI and development beginning Fall 2021 🍁 ✨</b>
 
 ### Side Projects?
 > Currently building an application to help inform users of content and images that contain mis-information, check out [verify](https://github.com/SammyRobensParadise/verify)!
