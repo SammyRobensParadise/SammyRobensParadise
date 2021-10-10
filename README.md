@@ -5,7 +5,7 @@ I am a developer and designer currently working at [Beacon Biosignals 🧠](http
 
 I study `Systems Design Engineering` at the University of Waterloo!
 
-[![Sammys's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyrobensparadise&count_private=true&show_icon=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sammys's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyrobensparadise&count_private=true&show_icon=true&theme=dark)](https://sammy.world)
 
 ### 🌎 Website: [sammy.world](https://sammy.world)
 
