@@ -1,7 +1,7 @@
 ### Hi there I'm Sammy 👋
 Pronouns: He/Him
 
-I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/), and [float 💳](https://www.floatcard.com/) !
+I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/)!
 
 I study `Systems Design Engineering` at the University of Waterloo!
 
