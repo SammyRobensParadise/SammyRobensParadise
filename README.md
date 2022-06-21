@@ -1,9 +1,9 @@
 ### Hi there I'm Sammy 👋
 Pronouns: He/Him
 
-I am a developer and designer currently working at [Beacon Biosignals 🧠](https://beacon.bio/)!
+I am a developer and designer at [Beacon Biosignals 🧠](https://beacon.bio/)!
 
-I study `Systems Design Engineering` at the University of Waterloo!
+I study [`Systems Design Engineering`](https://uwaterloo.ca/systems-design-engineering/) at the University of Waterloo!
 
 [![Sammys's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyrobensparadise&count_private=true&show_icon=true&theme=dark)](https://sammy.world)
 
